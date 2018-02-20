@@ -518,7 +518,7 @@ nav ul li a:focus {
 Hero
 ========================================================================== */
 .hero {
-  background: url("../img/painting.jpg") no-repeat center center;
+  background: url("../img/background.jpg") no-repeat center center;
   background-size: cover;
   padding: 65px 0 0 0;
   height: 100vh;
@@ -630,7 +630,7 @@ Swag
 ========================================================================== */
 .swag {
   position: relative;
-  background: url("../img/pelican.jpg") no-repeat center center;
+  background: url("../img/painting.jpg") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   padding: 50px 0;
