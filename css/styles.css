@@ -518,7 +518,7 @@ nav ul li a:focus {
 Hero
 ========================================================================== */
 .hero {
-  background: url("../img/painting.jpeg") no-repeat center center;
+  background: url("../img/painting.jpg") no-repeat center center;
   background-size: cover;
   padding: 65px 0 0 0;
   height: 100vh;
